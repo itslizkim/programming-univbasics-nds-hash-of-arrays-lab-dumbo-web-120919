@@ -9,5 +9,3 @@ def add_character(show, name)
 BASE_HOA[show][3] = ""
 BASE_HOA[show]# Should return the  array of the 'show' argument
 end
-
-
